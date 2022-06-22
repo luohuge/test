@@ -24,6 +24,7 @@ typedef pair<double,double> pdd;
 typedef pair<int,int> pii;
 typedef pair<double,int> pdi;
 int main(){
+	cout<<"hello world"<<endl;
 	return 0;
 }
 ```
